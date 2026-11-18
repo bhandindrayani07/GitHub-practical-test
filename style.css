@@ -1,5 +1,4 @@
 
-/* General Styling */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -7,7 +6,6 @@ body {
     color: black;
 }
 
-/* Header */
 header {
     background-color: #5b5bd6;
     color: white;
@@ -15,25 +13,6 @@ header {
     padding: 40px;
 }
 
-/* Navigation Bar */
-nav {
-    background-color: #333;
-    text-align: center;
-    padding: 15px;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    margin: 15px;
-    font-weight: bold;
-}
-
-nav a:hover {
-    color: #aaaaff;
-}
-
-/* Sections */
 section {
     background-color: white;
     margin: 20px;
@@ -41,17 +20,14 @@ section {
     border-radius: 10px;
 }
 
-/* Headings */
 h2 {
     color: #5b5bd6;
 }
 
-/* Skills */
 ul {
     line-height: 2;
 }
 
-/* Projects */
 .project {
     background-color: #eeeeff;
     padding: 15px;
@@ -59,7 +35,6 @@ ul {
     border-radius: 8px;
 }
 
-/* Button */
 button {
     display: block;
     margin: 20px auto;
@@ -75,24 +50,6 @@ button:hover {
     background-color: #4444aa;
 }
 
-/* Responsive Navigation */
-@media screen and (max-width: 600px) {
-    nav a {
-        display: inline-block;
-        margin: 8px;
-    }
-
-    header {
-        padding: 25px;
-    }
-
-    section {
-        margin: 12px;
-        padding: 18px;
-    }
-}
-
-/* Footer */
 footer {
     background-color: #333;
     color: white;
