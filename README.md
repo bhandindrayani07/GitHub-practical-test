@@ -1,6 +1,6 @@
 # GitHub Practical Test
 
-**Full Name:** Indrayani Bhand
+**Full Name:** Indrayani Sandip Bhand
 
 **URN Number:** E25B031560
 
